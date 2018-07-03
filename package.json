@@ -1,0 +1,15 @@
+{
+  "name": "ldap-auth",
+  "version": "1.0.0",
+  "description": "Serviço de autenticação no Servidor AD utilizando protocolo LDAP",
+  "main": "index.php",
+  "scripts": {
+    "test": "C:\\dev\\php\\php.exe -f test.php"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://gitlab.ctic.sms/portal/ldap-auth.git"
+  },
+  "author": "Andrew Solera (asolera@prefeitura.sp.gov.br)",
+  "license": "ISC"
+}
